@@ -2,15 +2,13 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-/* 项目名称：新一代天气雷达信息共享平台 （CIMISS） 类 名: FourPlus.java 版本信息：V1.0 日 期：2011-12-15 版 权：Copyright 2010 中国气象信息中心 */
-
 /**
  * @ClassName FourPlus.java
  * @version 1.0
  * @Description
  * @author tsw
  * @date 2011-12-15 上午10:19:30
- * @Copyright 中国气象信息中心
+ * @Copyright
  */
 
 public class FourPlus {

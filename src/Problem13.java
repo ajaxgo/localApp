@@ -1,5 +1,4 @@
 /*
- * 项目名称：新一代天气雷达信息共享平台 （CIMISS） 类 名: Problem13.java 版本信息：V1.0 日 期：2011-6-29 版 权：Copyright 2010 中国气象信息中心
  */
 
 /**
@@ -7,7 +6,7 @@
  * @author: tsw
  * @version: 1.0 2011-6-29
  * @since: JDK1.6
- * @copyright: 中国气象信息中心 2011-6-29
+ * @copyright: 2011-6-29
  */
 
 public class Problem13 {

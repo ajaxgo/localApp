@@ -3,15 +3,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/* ��Ŀ��ƣ���һ�������״���Ϣ����ƽ̨ ��CIMISS�� �� ��: WhatFuck.java �汾��Ϣ��V1.0 �� �ڣ�2011-6-23 �� Ȩ��Copyright 2010
- * �й�������Ϣ���� */
-
 /**
  * @Description:
  * @author: 1
  * @version: 1.0 2011-6-23
  * @since: JDK1.6
- * @copyright: �й�������Ϣ���� 2011-6-23 18750 910107:476 -----14563 910107:476 ------5078 910107:476
+ * @copyright: 2011-6-23 18750 910107:476 -----14563 910107:476 ------5078 910107:476
  */
 
 public class WhatFuck {

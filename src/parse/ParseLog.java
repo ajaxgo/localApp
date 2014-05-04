@@ -19,7 +19,7 @@ import org.junit.Test;
  * @Description
  * @author tsw
  * @date 2013-9-20 下午9:42:06
- * @Copyright 中国气象信息中心
+ * @Copyright 
  */
 
 public class ParseLog {

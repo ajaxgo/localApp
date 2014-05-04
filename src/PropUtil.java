@@ -1,5 +1,3 @@
-/* 项目名称：新一代天气雷达信息共享平台 （CIMISS） 类 名: PropUtil.java 版本信息：V1.0 日 期：2011-12-13 版 权：Copyright 2010 中国气象信息中心 */
-
 /**
  * @ClassName PropUtil.java
  * @version 1.0

@@ -1,4 +1,3 @@
-/* 项目名称：新一代天气雷达信息共享平台 （CIMISS） 类 名: LinkedList_Class.java 版本信息：V1.0 日 期：2011-12-26 版 权：Copyright 2010 中国气象信息中心 */
 package base;
 
 import java.util.HashMap;
@@ -10,7 +9,7 @@ import java.util.Map;
  * @Description 该类中的方法涉及到linklist的操作
  * @author tsw
  * @date 2011-12-26 下午10:02:16
- * @Copyright 中国气象信息中心
+ * @Copyright
  */
 
 public class LinkedList_Class {

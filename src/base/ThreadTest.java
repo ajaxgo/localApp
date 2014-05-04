@@ -1,4 +1,3 @@
-/* 项目名称：新一代天气雷达信息共享平台 （CIMISS） 类 名: ThreadTest.java 版本信息：V1.0 日 期：2012-1-11 版 权：Copyright 2010 中国气象信息中心 */
 package base;
 
 /**
@@ -7,7 +6,7 @@ package base;
  * @Description 测试thread类中的sleep方法。sleep睡眠后，只有获得this锁的线程才能进入同步块
  * @author tsw
  * @date 2012-1-11 上午10:18:09
- * @Copyright 中国气象信息中心
+ * @Copyright
  */
 
 public class ThreadTest {

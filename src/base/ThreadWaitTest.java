@@ -1,4 +1,3 @@
-/* 项目名称：新一代天气雷达信息共享平台 （CIMISS） 类 名: ThreadWaitTest.java 版本信息：V1.0 日 期：2012-1-11 版 权：Copyright 2010 中国气象信息中心 */
 package base;
 
 /**
@@ -7,7 +6,7 @@ package base;
  * @Description
  * @author tsw
  * @date 2012-1-11 上午11:25:15
- * @Copyright 中国气象信息中心
+ * @Copyright
  */
 
 public class ThreadWaitTest {
@@ -43,7 +42,7 @@ class Mutex {
  * @Description 生产者，当大于5时生产者对象阻塞，大于0时消费者对象notify
  * @author tsw
  * @date 2012-1-12 下午4:56:30
- * @Copyright 中国气象信息中心
+ * @Copyright 
  */
 
 class Produce implements Runnable {
@@ -86,7 +85,7 @@ class Produce implements Runnable {
  * @Description 消费者，小于0时消费者阻塞，小于5时生产者notify
  * @author tsw
  * @date 2012-1-12 下午4:58:05
- * @Copyright 中国气象信息中心
+ * @Copyright 
  */
 
 class Consume implements Runnable {

@@ -3,14 +3,12 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.ListIterator;
 
-/* 项目名称：新一代天气雷达信息共享平台 （CIMISS） 类 名: Array_Class.java 版本信息：V1.0 日 期：2011-10-10 版 权：Copyright 2010 中国气象信息中心 */
-
 /**
  * @Description:
  * @author: tsw
  * @version: 1.0 2011-10-10
  * @since: JDK1.6
- * @copyright: 中国气象信息中心 2011-10-10
+ * @copyright:
  */
 
 public class Array_Class {

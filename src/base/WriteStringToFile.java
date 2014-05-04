@@ -12,7 +12,7 @@ import java.io.LineNumberReader;
  * @Description
  * @author tsw
  * @date 2013-9-17 下午10:59:15
- * @Copyright 中国气象信息中心
+ * @Copyright
  */
 
 public class WriteStringToFile {

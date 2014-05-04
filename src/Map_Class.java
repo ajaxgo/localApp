@@ -6,7 +6,6 @@ import java.util.Map;
 import java.util.Random;
 
 /*
- * 项目名称：新一代天气雷达信息共享平台 （CIMISS） 类 名: Map_Class.java 版本信息：V1.0 日 期：2011-10-9 版 权：Copyright 2010 中国气象信息中心
  */
 
 /**
@@ -14,7 +13,7 @@ import java.util.Random;
  * @author: tsw
  * @version: 1.0 2011-10-9
  * @since: JDK1.6
- * @copyright: 中国气象信息中心 2011-10-9
+ * @copyright:
  */
 
 public class Map_Class {

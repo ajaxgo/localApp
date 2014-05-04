@@ -6,15 +6,13 @@ import org.dom4j.DocumentException;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 
-/* 项目名称：新一代天气雷达信息共享平台 （CIMISS） 类 名: XMLParse.java 版本信息：V1.0 日 期：2011-12-15 版 权：Copyright 2010 中国气象信息中心 */
-
 /**
  * @ClassName XMLParse.java
  * @version 1.0
  * @Description
  * @author tsw
  * @date 2011-12-15 下午10:25:25
- * @Copyright 中国气象信息中心
+ * @Copyright
  */
 
 public class XMLParse {

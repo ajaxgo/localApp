@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
  * @Description
  * @author tsw
  * @date 2013-12-24 下午9:58:29
- * @Copyright 中国气象信息中心
+ * @Copyright 
  */
 
 public class LogForLogBack {

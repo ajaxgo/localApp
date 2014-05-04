@@ -3,14 +3,12 @@ import java.util.List;
 import java.util.ListIterator;
 import java.util.Random;
 
-/* 项目名称：新一代天气雷达信息共享平台 （CIMISS） 类 名: Base_Class.java 版本信息：V1.0 日 期：2011-9-27 版 权：Copyright 2010 中国气象信息中心 */
-
 /**
  * @Description:
  * @author: tsw
  * @version: 1.0 2011-9-27
  * @since: JDK1.6
- * @copyright: 中国气象信息中心 2011-9-27
+ * @copyright:
  */
 public class Base_Class {
 

@@ -3,7 +3,7 @@
  * @author: tsw
  * @version: 1.0 2011-6-27
  * @since: JDK1.6
- * @copyright: 中国气象信息中心 2011-6-27
+ * @copyright:
  */
 
 public class primeFactory {
