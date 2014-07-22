@@ -1,7 +1,6 @@
 package base;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.LinkedList;
 
 /**
  * @ClassName LinkedList_Class.java
@@ -42,9 +41,9 @@ public class LinkedList_Class {
             Node tmp = head.next;
             head.next.last = head.last;
             head.last.next = head.next;
-            head.last = head.next = null;
+//            head.last = head.next = null;
             System.out.println(head.name);
-            head.name = null;
+//            head.name = null;
             head = tmp;
         }
 
@@ -53,11 +52,6 @@ public class LinkedList_Class {
     public static void main (String[] args) {
         LinkedList_Class listObj = new LinkedList_Class();
         listObj.findLastOne();
-        Map map = new HashMap();
-        map.put("1", "1");
-        map.put("2", "2");
-        map.put("3", "3");
-        System.out.println(map);
     }
 }
 
